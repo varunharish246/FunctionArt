@@ -1,0 +1,46 @@
+General knowledge:
+-f(x) reflects the function across the x axis.
+f(-x) reflects the function across the y axis.
+a f(x) stretches or shrinks the function by 'a' units vertically.
+f(1/a x) stretches or shrinks the function by 'a' units horizontally.
+f(x) + a moves the function 'a' units vertically . Up if 'a' is positive down if 'a' is negative.
+f(x+a) moves the function 'a' units horizontally. left if 'a' is positive right if 'a' is negative.
+
+NOTE:f(-x+a) = f(-(x-a)), f(bx+a) = f(b(x+a/b))
+
+Linear Function:
+
+Formula: y = mx +b
+Linear functions are straight lines, made from the parent function f(x) = x. They can be tilted 
+by the coefficient m this is called slope. The variable b is used to move the function through the graph.
+
+Quadratic Function:
+
+Quadratic functions are made from the parent function f(x) = x². The parent quadratic function
+squares the input, so the output can't be negative because (-)² = +. The y values increase 
+exponentially making a 'U' shape
+
+Cubic Function:  
+
+Cubic functions are made from the parent function f(x) = x³. The parent quadratic function
+cubes the input, so unlike a quadratic function there can be negative values.
+
+Absolute Function:
+
+Absolute functions are  made from the parent function f(x) = |x|. They are the same as linear functions
+except the negative x values become positive y values giving them the appearance of a 'V'
+
+Reciprocal Function:
+
+Reciprocal functions are  made from the parent function f(x) = 1/x. The y values become greater
+as the x values become smaller, when the x values is less than 1 the y values become greater than the 
+x values. This is why the parent function is approaching zero, but can't reach zero because 1/0 
+is undefined.
+
+Sin function
+
+Sin functions are made from the parent function f(x) = sin(x). The sin operation is used on an angle of a
+right triangle to find the side opposite to the angle divided by the hypotenuse of the triangle.
+Since angles only go up to 360 degrees, or 2π radians the parent function repeats itself after 
+the value becomes greater than those numbers. For example, 361 degrees will be treated as 1 degree. Since 
+the function repeats itself one 360 degree cycle of the parent function is called a period.

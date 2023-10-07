@@ -1,0 +1,7 @@
+1. If the timer runs out before you graphed the highlighted function you will be taken to a question page
+
+2. Based on what parts of the function you answered incorrectly (type of function, domain, shifts) you will be asked a question to help you better understand the part you are stuck on
+
+3. If you answer the question correctly the panel will turn green, if not it will turn red.
+
+4. You have to answer the question to get back to the graphing page or else the "Back" button won't work. 

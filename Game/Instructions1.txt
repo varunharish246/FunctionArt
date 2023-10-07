@@ -1,0 +1,7 @@
+1. Each level of the game consists of the player trying to draw a picture using functions! The levels will get harder with level 1 being the easiest and level 3 being the hardest.
+
+2. The start button will take you to the game page, while the functions button will take you to a page with info about functions. The quit buttons take you back to the home page.
+
+3. use the JMenuBars to edit the text field which will show your changes. 
+
+4. You will be trying to graph the yellow(highlighted) function. press submit to see if you graphed the highlighted function correctly

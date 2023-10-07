@@ -1,0 +1,8 @@
+1.You will have thirty seconds to graph one function, you can use the JMenuBars to change the 
+equation, and use the JMenuBar on the right to change the domains.
+2. When you press submit the equation will be checked, if you get it right a green message 
+will appear telling you to keep on going, if you get it wrong a red message will appear telling
+you to try again
+3. After you finish a level a green message will appear and congratulate you, then you will be taken to the next level.
+When you finish the game a green message will congratulate you for beating the game and ask you to quit to go
+to the Home Page.
